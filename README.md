@@ -8,9 +8,9 @@ Asus F3S
 
 Touchpad Synaptics 920-000241-02 RevA
 
-T10: Data or clock
-T11: Data or clock
-T20:
+T10: clock
+T11: data
+T23: gnd
 T22: 5V
 
 ### PS/2 connector

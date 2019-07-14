@@ -23,3 +23,9 @@ T22: 5V
 
 ### Checklist
 
+###### TOUCHPAD
+
+- [x] Identify test points that correspond to 5v, GND, clock and data
+- [x] Read clock T10 on oscilloscope and observe square wave
+- [] Write an Arduino sketch and observe movements
+- [] Hook touchpad to a ** PS/2(female) to USB adapter ** to a Linux machine and see if touchpad is identified

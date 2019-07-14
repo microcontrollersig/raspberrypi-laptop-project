@@ -9,3 +9,17 @@ egrep -i 'synap|alps|etps|elan' /proc/bus/input/devices
 Package **xserver-xorg-input-libinput** is installed by default.
 
 Old package is not installed **xserver-xorg-input-synaptics**
+
+Try
+
+```sh
+evtest
+```
+
+or
+
+```sh
+xinput list
+```
+
+

@@ -22,4 +22,10 @@ or
 xinput list
 ```
 
+```sh
+xinput set-prop "SynPS/2 Synaptics TouchPad" "Device Enabled" 0
+```
 
+```sh
+xinput set-prop "SynPS/2 Synaptics TouchPad" "Device Enabled" 1
+```

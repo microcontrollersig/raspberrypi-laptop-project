@@ -7,6 +7,9 @@ Asus F3S
 ### Touchpad
 
 Touchpad Synaptics 920-000241-02 RevA
+
+![Touchpad synaptics](https://github.com/microcontrollersig/raspberrypi-laptop-project/raw/master/touchpad-synaptics-920-000241-02.jpg)
+
 PS/2 signalling used.
 
 

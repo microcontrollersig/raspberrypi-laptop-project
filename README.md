@@ -19,6 +19,10 @@ T23: GND
 
 T22: 5V
 
+[Synaptics Manual](https://github.com/telmich/gpm/blob/master/doc/specs/synaptics/www.synaptics.com/decaf/utilities/ACF126.pdf)
+
+###### Key Facts from Synaptics Manual
+
 
 
 

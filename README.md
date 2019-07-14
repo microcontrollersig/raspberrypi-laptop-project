@@ -16,8 +16,10 @@ T23: GND
 
 T22: 5V
 
-### PS/2 connector
-![PS/2](https://github.com/microcontrollersig/raspberrypi-laptop-project/raw/master/IMG_20190713_124408.jpg)
 
-# Steps
+
+### PS/2 connector
+
+
+### Checklist
 

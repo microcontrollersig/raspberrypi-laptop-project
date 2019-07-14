@@ -7,6 +7,9 @@ Asus F3S
 ### Touchpad
 
 Touchpad Synaptics 920-000241-02 RevA
+PS/2 signalling used.
+
+
 
 T10: clock
 
@@ -18,7 +21,6 @@ T22: 5V
 
 
 
-### PS/2 connector
 
 
 ### Checklist

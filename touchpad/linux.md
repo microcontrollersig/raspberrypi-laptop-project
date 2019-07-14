@@ -29,3 +29,7 @@ xinput set-prop "SynPS/2 Synaptics TouchPad" "Device Enabled" 0
 ```sh
 xinput set-prop "SynPS/2 Synaptics TouchPad" "Device Enabled" 1
 ```
+
+## Testing
+
+https://unix.stackexchange.com/questions/388963/how-can-i-enable-disable-the-synaptics-touchpad-in-debian-9-with-libinput

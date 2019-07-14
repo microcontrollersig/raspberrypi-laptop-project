@@ -21,9 +21,12 @@ T22: 5V
 
 [Synaptics Manual](https://github.com/telmich/gpm/blob/master/doc/specs/synaptics/www.synaptics.com/decaf/utilities/ACF126.pdf)
 
-###### Key Facts from Synaptics Manual
+###### Key Facts from Synaptics Manual (
 
+SECTION 3.1
 ![PS/2 Cable Pinout](https://github.com/microcontrollersig/raspberrypi-laptop-project/raw/master/ps2cablepinout.png)
+
+8-pin FFC cable
 
 
 

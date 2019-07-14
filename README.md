@@ -23,7 +23,7 @@ T22: 5V
 
 ###### Key Facts from Synaptics Manual
 
-
+![PS/2 Cable Pinout](https://github.com/microcontrollersig/raspberrypi-laptop-project/raw/master/ps2cablepinout.png)
 
 
 

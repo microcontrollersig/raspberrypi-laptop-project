@@ -25,6 +25,20 @@ T6: left mouse click
 
 T7: right mouse click
 
+#### 12-pin connector
+1-2: T7(left or right click)
+
+3-4: T6 (left or right click)
+
+5-6: GND
+
+7-8: CLK
+
+9-10: DATA
+
+11-12: +5V
+
+
 [Synaptics Manual](https://github.com/telmich/gpm/blob/master/doc/specs/synaptics/www.synaptics.com/decaf/utilities/ACF126.pdf)
 
 ###### Key Facts from Synaptics Manual 

@@ -13,7 +13,6 @@ Touchpad Synaptics 920-000241-02 RevA
 PS/2 signalling used.
 
 
-
 T10: clock
 
 T11: data
@@ -21,6 +20,10 @@ T11: data
 T23: GND
 
 T22: 5V
+
+T6: left mouse click
+
+T7: right mouse click
 
 [Synaptics Manual](https://github.com/telmich/gpm/blob/master/doc/specs/synaptics/www.synaptics.com/decaf/utilities/ACF126.pdf)
 

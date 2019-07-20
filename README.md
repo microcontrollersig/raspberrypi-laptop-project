@@ -12,6 +12,7 @@ Touchpad Synaptics 920-000241-02 RevA
 
 PS/2 signalling used.
 
+#### Test Points
 
 T10: clock
 
